@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task 4</string>
+
+    <string name="wri">Was released in the year</string>
+
+    <string name="name">Name Of Movie</string>
+    <string name="yr">Year Of Release</string>
+
+</resources>
